@@ -66,7 +66,7 @@ To set APP Key
 
 
 <img width="1920" height="1080" alt="Screenshot (752)" src="https://github.com/user-attachments/assets/369627e5-d1ba-4c60-b826-3b83e8a86cfc" />
-<img width="1920" height="1080" alt="Screenshot (751)" src="https://github.com/user-attachments/assets/e774688c-547f-4012-a100-0fa5b7c42d1f" />
+
 <img width="1920" height="1080" alt="Screenshot (757)" src="https://github.com/user-attachments/assets/9c457015-1c75-4e8b-a454-87430a6ba819" />
 
 <img width="1920" height="1080" alt="Screenshot (759)" src="https://github.com/user-attachments/assets/f85434fa-ec09-4464-ac81-08aa60259622" />
