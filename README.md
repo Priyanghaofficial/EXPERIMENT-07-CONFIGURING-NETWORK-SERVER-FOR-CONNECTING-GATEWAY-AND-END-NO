@@ -67,12 +67,19 @@ To set APP Key
 
 <img width="1920" height="1080" alt="Screenshot (752)" src="https://github.com/user-attachments/assets/369627e5-d1ba-4c60-b826-3b83e8a86cfc" />
 <img width="1920" height="1080" alt="Screenshot (751)" src="https://github.com/user-attachments/assets/e774688c-547f-4012-a100-0fa5b7c42d1f" />
+<img width="1920" height="1080" alt="Screenshot (757)" src="https://github.com/user-attachments/assets/9c457015-1c75-4e8b-a454-87430a6ba819" />
 
-<img width="1920" height="1080" alt="Screenshot (743)" src="https://github.com/user-attachments/assets/f487983b-8474-41be-9183-e48176c9bb4a" />
-<img width="1920" height="1080" alt="Screenshot (742)" src="https://github.com/user-attachments/assets/7a06b8d7-a9b0-4a1c-ad34-aae2eb6a5372" />
+<img width="1920" height="1080" alt="Screenshot (759)" src="https://github.com/user-attachments/assets/f85434fa-ec09-4464-ac81-08aa60259622" />
 
-<img width="1920" height="1080" alt="Screenshot (741)" src="https://github.com/user-attachments/assets/a18648e6-f139-4a92-9e1c-501edf70a0bb" />
-<img width="1920" height="1080" alt="Screenshot (739)" src="https://github.com/user-attachments/assets/eb00a671-bf43-438f-96e3-a74c0fe1b59d" />
+<img width="1920" height="1080" alt="Screenshot (760)" src="https://github.com/user-attachments/assets/7c73f7d8-0b2b-4ee6-93b0-2fed82e1935b" />
+
+<img width="1920" height="1080" alt="Screenshot (761)" src="https://github.com/user-attachments/assets/3b80ec1c-1f1a-4338-ba79-c36518ccc284" />
+
+
+<img width="1920" height="1080" alt="Screenshot (762)" src="https://github.com/user-attachments/assets/39328536-db4e-4206-a59d-abac1a4a5877" />
+
+<img width="1920" height="1080" alt="Screenshot (758)" src="https://github.com/user-attachments/assets/8b19ac82-b8d4-4a9f-b915-7812cab11416" />
+
 
 
 ## Result: 
