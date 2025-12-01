@@ -56,6 +56,17 @@ To set APP Key
 
 
 ## OUTPUT 
+<img width="1920" height="1080" alt="Screenshot (753)" src="https://github.com/user-attachments/assets/07ef829b-6391-4ccc-9dc5-f37ffca47e5c" />
+
+
+<img width="1920" height="1080" alt="Screenshot (752)" src="https://github.com/user-attachments/assets/369627e5-d1ba-4c60-b826-3b83e8a86cfc" />
+<img width="1920" height="1080" alt="Screenshot (751)" src="https://github.com/user-attachments/assets/e774688c-547f-4012-a100-0fa5b7c42d1f" />
+
+<img width="1920" height="1080" alt="Screenshot (743)" src="https://github.com/user-attachments/assets/f487983b-8474-41be-9183-e48176c9bb4a" />
+<img width="1920" height="1080" alt="Screenshot (742)" src="https://github.com/user-attachments/assets/7a06b8d7-a9b0-4a1c-ad34-aae2eb6a5372" />
+
+<img width="1920" height="1080" alt="Screenshot (741)" src="https://github.com/user-attachments/assets/a18648e6-f139-4a92-9e1c-501edf70a0bb" />
+<img width="1920" height="1080" alt="Screenshot (739)" src="https://github.com/user-attachments/assets/eb00a671-bf43-438f-96e3-a74c0fe1b59d" />
 
 
 ## Result: 
